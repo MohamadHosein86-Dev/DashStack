@@ -3,6 +3,7 @@ import { Routes, Route } from 'react-router-dom'
 import Navbar from './components/common/Navbar'
 import routes from './routes'
 import Sidebar from './components/common/Sidebar'
+//
 export default function App() {
   return (
     <main className='bg-light-main-bg overflow-x-hidden'>
@@ -11,7 +12,6 @@ export default function App() {
           <div className='sidebar-wrapper hidden lg:col-span-2 lg:block'>
             <Sidebar />
           </div>
-
           <div className='route-wrapper col-span-12 lg:col-span-10'>
             <Navbar />
             <div className='px-6'>
