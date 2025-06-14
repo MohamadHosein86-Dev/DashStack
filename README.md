@@ -1,4 +1,4 @@
-# Vuexy Next.js Admin Template 🚀
+# Dashstack React.js Admin Template 🚀
 
 <div dir="rtl">
 #  پنل ادمین React.js Dashstack 🚀
